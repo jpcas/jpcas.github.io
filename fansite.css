@@ -1,4 +1,40 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+body {
+    text-align: center;
+    background-color: #CDD1D2;
+}
+h1 {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    border-style: solid;
+    font-family: 'Sansita Swashed';
+    font-weight: bold;
+}
+ul li {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    font-family: 'Sansita Swashed';
+    color: #FF007F;
+
+}
+h2 {
+    color: #FF007F;
+}
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+footer {
+    font-family: 'Sansita Swashed';
+    font-size: 30px;
+    font-weight: bolder;
 }
